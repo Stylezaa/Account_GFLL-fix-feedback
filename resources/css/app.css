@@ -1,0 +1,5 @@
+.v-input__control {
+    display: flex;
+    grid-area: control;
+    height: 38px;
+}

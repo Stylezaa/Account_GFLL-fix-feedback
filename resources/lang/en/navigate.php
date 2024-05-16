@@ -1,0 +1,71 @@
+<?php
+return [
+    // Main Data
+    "main_data" => "Main Data",
+    "donor.php" => "Donors",
+    "component" => "Component",
+    "sub_component" => "Sub-Component",
+    "activity_group" => "Activity Type",
+    "activity" => "Activity",
+    "bsp" => "BSP Category",
+    "category" => "Category",
+    "group_of_chart_account" => "Group of account",
+    "chart_of_account" => "Chart of Account",
+    "bank_info" => "Bank info",
+    "bank_note" => "Bank note",
+    "province" => "Province",
+    "district" => "District",
+    "village" => "Village",
+    "cost_center" => "Cost Center",
+    "sub_cost_center" => "Sub-Cost Center",
+
+    //  Transaction Data
+    "transaction_title" => "Transaction Data",
+    "transaction_data" => "Transaction Data",
+    "general_journal_voucher" => "General Journal Voucher",
+    "bank_voucher" => "Bank Voucher",
+    "cash_voucher" => "Cash Voucher",
+    "post_general_journal" => "Post General Journal",
+    "advance_payment_voucher" => "Advance Payment Voucher",
+    "post_advance_payment" => "Post Advance Payment",
+    "clear_advance_payment_voucher" => "Clear Advance Payment Voucher",
+    "post_clear_advance_payment" => "Post Clear Advance Payment ",
+    "bank_reconciliation"=>"Bank Reconciliation",
+    "cash_reconciliation" => "Cash Reconciliation",
+
+    // Project Report
+    "project_report" => "Project Report",
+    "bank_control_book" => "Bank Control Book",
+    "petty_cash_control_book" => "Petty Cash Control Book",
+    "advance_control_book" => "Advance Control Book",
+    "advance_outstanding" => "Advance Outstanding ",
+    "sources_and_use_of_funds_statement" => "Sources and Uses of Funds Statement",
+    "uses_of_fun_by_category_statement" => "Uses of Funs by Category Statement",
+    "uses_of_fun_by_category_and_source" => "Uses of Funs by Category and Sources",
+    "uses_of_fun_by_component_statement" => "Uses of Funs by Component Statement",
+    "uses_of_fun_by_component_and_source" => "Uses of Funs by Component and Sources",
+    "uses_of_fun_by_project_activity_statement" => "Uses of Funs by Project Activity Statement",
+    "uses_of_fun_by_project_activity_and_source" => "Uses of Funs by Project Activity and Sources",
+    "uses_of_fun_by_bsp_category_statement" => "Uses of Funs by BSP Category Statement",
+    "uses_of_fun_by_bsp_category_and_source" => "Uses of Funs by BSP Category and Sources",
+
+    // Accounting Report
+    "accounting_report" => "Accounting Report",
+    "general_transaction_report" => "General Transaction Report",
+    "general_journal" => "General Journal",
+    "general_ledger" => "General Ledger",
+    "trail_balance" => "Trial Balance",
+    "balance_sheet" => "Balance Sheet",
+
+    //Setting
+    "setting" => "Setting",
+    "office_info" => "Office info",
+    "user_guide" => "User Guide",
+    "opening_balance" => "Opening Balance",
+    "closing_account" => "Closing Account",
+    "pda_budget" => "PAD Budget",
+    "quarterly" => "Quarterly Budget",
+    "user_info" => "User info",
+    "change_pwd" => "Change user password",
+    "logout" => "Logout"
+];

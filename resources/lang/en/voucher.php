@@ -1,0 +1,21 @@
+<?php
+return [
+    "title"=>"General Voucher",
+    "from_date"=>"From Date",
+    "to_date"=>"To Date",
+    "search"=>"Search",
+    "new"=>"New",
+    "action"=>"Action",
+    "voucher_no"=>"Voucher No",
+    "cheque_no"=>"Cheque No",
+    "voucher_date"=>"Voucher Date",
+    "description"=>"Description",
+    "amount"=>"Amount",
+    "currency"=>"Currency",
+    "rate"=>"Exchange Rate",
+    "debit_kip"=>"Debit KIP",
+    "credit_kip"=>"Credit KIP",
+    "debit_usd"=>"Debit USD",
+    "credit_usd"=>"Credit USD",
+    "delete"=>"Delete",
+];

@@ -1,0 +1,51 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "npm run development",
+        "development": "mix",
+        "watch": "mix watch",
+        "watch-poll": "mix watch -- --watch-options-poll=1000",
+        "hot": "mix watch --hot",
+        "prod": "npm run production",
+        "production": "mix --production"
+    },
+    "devDependencies": {
+        "@babel/preset-react": "^7.24.1",
+        "@popperjs/core": "^2.10.2",
+        "@vue/compiler-sfc": "^3.3.4",
+        "axios": "^0.21",
+        "bootstrap": "^5.1.3",
+        "laravel-mix": "^6.0.6",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14",
+        "resolve-url-loader": "^5.0.0",
+        "sass": "^1.32.11",
+        "sass-loader": "^11.0.1",
+        "vue": "^3.2.36",
+        "vue-loader": "^17.0.1"
+    },
+    "dependencies": {
+        "@coders-tm/vue-number-format": "^3.30.0",
+        "@mdi/font": "^7.2.96",
+        "@pmmmwh/react-refresh-webpack-plugin": "^0.5.11",
+        "@rah-emil/vue-moment": "^5.0.0",
+        "@vuepic/vue-datepicker": "^5.4.0",
+        "dotenv": "^16.3.1",
+        "maska": "^2.1.10",
+        "moment": "^2.29.4",
+        "number-to-text": "^0.3.9",
+        "postscribe": "^2.0.8",
+        "print-my-html-js": "^1.1.4",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-refresh": "^0.14.0",
+        "react-select": "^5.8.0",
+        "sweetalert2": "^11.7.20",
+        "vue-datepicker": "^1.3.0",
+        "vue-i18n": "^9.4.0",
+        "vue-numerals": "^4.0.6",
+        "vue-router": "^4.2.4",
+        "vue3-datepicker": "^0.4.0",
+        "vuetify": "^3.3.12"
+    }
+}

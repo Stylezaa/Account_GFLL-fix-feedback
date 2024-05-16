@@ -1,0 +1,22 @@
+<?php
+return [
+    "title" => "ກິດຈະກຳ",
+    "action.update" => "ອັບເດດກິດຈະກຳ",
+    "action.new" => "ເພີ່ມຂໍ້ມູນກິດຈະກຳໃໝ່",
+    "id" => "ລະຫັດກິດຈະກຳ*",
+    "activityGroup" => "ກິດຈະກຳຍ່ອຍ*",
+    "select_activityGroup" => "ກາລຸນາເລືອກກິດຈະກຳຍ່ອຍ",
+    "subComponent" => "ອົງປະກອບຍ່ອຍ*",
+    "select_subcomponent" => "ກາລຸນາເລືອກກິດຈະກຳຍ່ອຍ",
+    "level" => "ຂັ້ນຈັດຕັ້ງປະຕິບັດ*",
+    "select_level" => "ກາລຸນາເລືອກຂັ້ນຈັດຕັ້ງປະຕິບັດ",
+    "category" => "ຮ່ວງລາຍຈ່າຍ*",
+    "select_category" => "ກາລຸນາເລືອກປະເພດຮ່ວງລາຍຈ່າຍ",
+    "account" => "ບັນຊີ",
+    "select_account" => "ກາລຸນາເລືອກບັນຊີ",
+    "bspcategory" => "BSP Category*",
+    "select_bspcategory" => "ກາລຸນາເລືອກ BSP Categories",
+    "name_l" => "ຊື່ກິດຈະກຳ(ພາສາລາວ)*",
+    "name_e" => "ຊື່ກິດຈະກຳ(ພາສອັງກິດ)*",
+    "stoped" => "ຢຸດນຳໃຊ້ *",
+];
